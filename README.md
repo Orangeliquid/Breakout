@@ -4,14 +4,14 @@ Pygame Breakout is a classic arcade-style game developed in Python using the Pyg
 
 ## Table of Contents
 
-- Features
-- Installation
-- How to Play
-- Controls
-- Gameplay
-- Screenshots
-- Dependencies
-- License
+- [Features](#features)
+- [Installation](#installation)
+- [How to Play](#how-to-play)
+- [Controls](#controls)
+- [Gameplay](#gameplay)
+- [Screenshots](#screenshots)
+- [Dependencies](#dependencies)
+- [License](#license)
 
 ## Features
 
@@ -25,7 +25,7 @@ Pygame Breakout is a classic arcade-style game developed in Python using the Pyg
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/pygame-breakout.git
+   git clone https://github.com/Orangeliquid/pygame-breakout.git
    ```
 
 2. Navigate to the project directory:
